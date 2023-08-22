@@ -1,0 +1,1 @@
+É bem tranquilo de criar uma branch e depois fazer um merge com a main
